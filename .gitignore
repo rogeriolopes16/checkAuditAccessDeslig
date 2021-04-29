@@ -1,0 +1,7 @@
+settings/
+.idea/
+venv/
+bkp/
+*.txt
+*.csv
+*.bat
